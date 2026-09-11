@@ -26,13 +26,6 @@ The application allows users to enter text, select a source language and target 
 - Simple user interface
 - Translation output display
 
-## Screenshots
-
-### User Interface
-![Translation Tool](screenshots/interface.png)
-
-### Translation Result
-![Translation Result](screenshots/translation_result.png)
 
 ## How to Run
 1. Open the Jupyter Notebook in Google Colab.
